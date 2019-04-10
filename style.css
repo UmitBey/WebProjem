@@ -1,0 +1,54 @@
+#div1
+{
+	border-style: solid;
+	border-width: 5px;
+	border-radius: 10px;
+	margin: 25px;
+}
+#div2
+{
+	border-style: dotted;
+	border-width: 5px;
+	border-radius: 10px;
+	margin: 25px;
+}
+#div3
+{
+	border-style: double;
+	border-width: 5px;
+	border-radius: 10px;
+	margin: 25px;
+}
+#div4
+{
+	border-style: groove;
+	border-color: skyblue;
+	border-width: 5px;
+	border-radius: 10px;
+	margin: 25px;
+}
+#div5
+{
+	border-style: ridge;
+	border-color: skyblue;
+	border-radius: 10px;
+	margin: 25px;
+}
+#div6
+{
+	border-style: inset;
+	border-color: skyblue;
+	border-radius: 10px;
+	margin: 25px;
+}
+#div7
+{
+	border-style: outset;
+	border-color: skyblue;
+	border-radius: 10px;
+	margin: 25px;
+}
+#div8
+{
+	border-style: dashed;
+}
