@@ -1,54 +1,23 @@
-#div1
-{
-	border-style: solid;
-	border-width: 5px;
-	border-radius: 10px;
-	margin: 25px;
+.topnav { 
+background-color: #333 ;
+overflow: hidden;
 }
-#div2
-{
-	border-style: dotted;
-	border-width: 5px;
-	border-radius: 10px;
-	margin: 25px;
-}
-#div3
-{
-	border-style: double;
-	border-width: 5px;
-	border-radius: 10px;
-	margin: 25px;
-}
-#div4
-{
-	border-style: groove;
-	border-color: skyblue;
-	border-width: 5px;
-	border-radius: 10px;
-	margin: 25px;
-}
-#div5
-{
-	border-style: ridge;
-	border-color: skyblue;
-	border-radius: 10px;
-	margin: 25px;
-}
-#div6
-{
-	border-style: inset;
-	border-color: skyblue;
-	border-radius: 10px;
-	margin: 25px;
-}
-#div7
-{
-	border-style: outset;
-	border-color: skyblue;
-	border-radius: 10px;
-	margin: 25px;
-}
-#div8
-{
-	border-style: dashed;
+
+.topnav a {
+float: left; 
+color: #f2f2f2; 
+text-align: center; 
+padding: 14px 16px; 
+text-decoration: none;
+font-size: 17px;
+} 
+
+.topnav a:hover {
+background-color: #ddd; 
+color: black;
+} 
+
+.topnav a.active { 
+background-color: #4CAF50;
+color: white;
 }
